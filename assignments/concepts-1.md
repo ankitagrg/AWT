@@ -25,7 +25,7 @@
 1. **Element Selector** - Targets all elements of a specific type.
     p {
       color: blue;
-      font-size: 16px;
+      font-size: 20px;
     }
 2. **Class Selector** - Selects elements with a specific class.
    .highlight {
